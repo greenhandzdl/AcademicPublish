@@ -8,7 +8,9 @@ IGNORED_SUFFIXES = {
     ".out",
     ".toc",
     ".pdf",
-    ".synctex.gz"
+    ".synctex.gz",
+    ".snm",
+    ".nav"
 }
 
 def delete_files_by_suffix(root_dir):
