@@ -5,3 +5,8 @@
 *.pdf
 *.synctex.gz
 *.toc
+
+*.nav
+*.snm
+
+.DS_Store
